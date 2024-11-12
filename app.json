@@ -31,6 +31,15 @@
     ],
     "experiments": {
       "typedRoutes": true
-    }
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "1a80a7d1-9ea9-4f37-a643-a6179953267f"
+      }
+    },
+    "owner": "tadeasf"
   }
 }
